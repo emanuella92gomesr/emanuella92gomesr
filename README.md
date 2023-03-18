@@ -9,10 +9,10 @@
 
 <div style="align-items:center;">
     <div id="badges">
-    <a href="https://www.linkedin.com/in/emanuellagomesr/">
+    <a href="https://www.linkedin.com/in/emanuellagomesr/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/emanuella_t">
+    <a href="https://twitter.com/emanuella_t" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
