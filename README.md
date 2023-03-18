@@ -2,6 +2,11 @@
 - 👀 I’m interested in JavaScript, TypeScript, HTML, CSS, SASS, React, Python and Java.
 - 🌱 I’m currently learning React and Python.
 
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emanuella92gomesr&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <div style="align-items:center;">
     <div id="badges">
     <a href="https://www.linkedin.com/in/emanuellagomesr/">
